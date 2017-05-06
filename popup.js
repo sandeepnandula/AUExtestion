@@ -6,4 +6,4 @@ function injectTheScript() {
     });
 }
 
-// document.getElementById('clickactivity').addEventListener('click', injectTheScript);
+document.getElementById('clickactivity').addEventListener('click', injectTheScript);
